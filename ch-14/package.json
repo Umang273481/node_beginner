@@ -1,0 +1,24 @@
+{
+  "name": "ch-14",
+  "version": "1.0.0",
+  "description": "Handling file uploads",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umang273481/node_beginner.git"
+  },
+  "author": "Umang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umang273481/node_beginner/issues"
+  },
+  "homepage": "https://github.com/Umang273481/node_beginner#readme"
+}
