@@ -1,0 +1,20 @@
+{
+  "name": "ch-2",
+  "version": "1.0.0",
+  "description": "Analyzing HTTP server",
+  "main": "Analyzing_server.js",
+  "scripts": {
+    "start": "node Analyzing_server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umang273481/node_beginner.git"
+  },
+  "author": "Umang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umang273481/node_beginner/issues"
+  },
+  "homepage": "https://github.com/Umang273481/node_beginner#readme"
+}
